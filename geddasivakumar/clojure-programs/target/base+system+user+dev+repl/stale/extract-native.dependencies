@@ -1,0 +1,1 @@
+([:dependencies ([cider/cider-nrepl "0.11.0-SNAPSHOT"] [refactor-nrepl "2.0.0-SNAPSHOT"] [org.clojure/clojure "1.7.0"] [clj-time/clj-time "0.11.0"] [org.clojure/tools.nrepl "0.2.12"] [clojure-complete/clojure-complete "0.2.3" :exclusions ([org.clojure/clojure])] [midje/midje "1.6.3" :scope "test"])])
